@@ -1,6 +1,0 @@
-C:\Users\Admin\AppData\Local\Temporary Projects\snake\bin\Debug\snake.exe
-C:\Users\Admin\AppData\Local\Temporary Projects\snake\bin\Debug\snake.pdb
-C:\Users\Admin\AppData\Local\Temporary Projects\snake\obj\x86\Debug\snake.exe
-C:\Users\Admin\AppData\Local\Temporary Projects\snake\obj\x86\Debug\snake.pdb
-C:\projects\snake\snake\snake\obj\x86\Debug\snake.exe
-C:\projects\snake\snake\snake\obj\x86\Debug\snake.pdb
